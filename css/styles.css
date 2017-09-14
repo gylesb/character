@@ -1,0 +1,11 @@
+.form-group {
+  color: white;
+}
+
+h1 {
+  color: white;
+}
+
+#boba, #chewy, #jarjar, #leia, #luke, #maul, #obiwan, #vader, #windu, #yoda, #padme, #hansolo {
+  display: none;
+}
